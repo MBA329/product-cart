@@ -184,7 +184,7 @@ const Dashboard = () => {
             {cartCount > 0 && (
               <div>
                 <div className="flex justify-between">
-                  <p>Order Total</p>
+                  <p>Order Total.</p>
                   <p className="font-bold ">${total}</p>
                 </div>
                 <div className="text-gray-900 bg-[var(--rose100)] w-full my-3 p-1 rounded text-center justify-center flex items-center">
